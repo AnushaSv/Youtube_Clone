@@ -1,6 +1,7 @@
 ### YOUTUBE CLONE
 
 The YouTube clone developed using React and integrated with Rapid API offers a replica of the popular video-sharing platform. It allows users to explore a  collection of videos, channels, and features. The clone utilizes React components to create a responsive and interactive user interface.
+https://youtubemania.netlify.app/
 
 ### The YoyTube Clone includes following components:
 
